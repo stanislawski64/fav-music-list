@@ -1,0 +1,13 @@
+{
+  "enterAlbumTitle": "Enter an album title...",
+  "addToList": "Add to List",
+  "sortingMethod": "Sorting Method",
+  "setAsFavorite": "Set as The Best Of The Best",
+  "remove": "Remove",
+  "changeViewModel": "Change View Model",
+  "changeLanguage": "Change Language",
+  "pl": "Polish",
+  "en": "English",
+  "date": "date",
+  "noAlbumsAdded": "No albums were added."
+}

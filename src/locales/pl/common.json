@@ -1,0 +1,13 @@
+{
+  "enterAlbumTitle": "Wpisz nazwę albumu...",
+  "addToList": "Dodaj do Listy",
+  "sortingMethod": "Metoda Sortowania",
+  "setAsFavorite": "Ustaw jako Najlepsze Z Najlepszych",
+  "remove": "Usuń",
+  "changeViewModel": "Zmień widok",
+  "changeLanguage": "Zmień język",
+  "pl": "Polski",
+  "en": "Angielski",
+  "date": "data",
+  "noAlbumsAdded": "Brak albumów do wyświetlenia."
+}
